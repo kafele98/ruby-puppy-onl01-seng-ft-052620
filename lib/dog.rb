@@ -7,7 +7,7 @@ class Dog
   end 
   
   def all 
-    puts @@all 
+    returns @@all 
   end 
   
   
